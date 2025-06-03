@@ -1,0 +1,7 @@
+[package]
+name = "mav-repro"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+gns = { path = "../gns" }
